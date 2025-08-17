@@ -262,16 +262,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** for deployment platform
 - **OpenAI** for AI capabilities
 
-## 📞 Support
-
-For questions, issues, or feature requests:
-
-- **Email**: rfp-support@ibm.com
-- **Slack**: #rfp-automation-assistant
-- **Issues**: [GitHub Issues](https://github.com/your-org/rfp-automation-assistant/issues)
-
----
-
-**Built with ❤️ for IBM Technical Sales Teams**
-
-*Transforming the way we respond to RFPs through intelligent automation and AI-powered insights.*
